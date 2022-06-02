@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "404469567656",
+    "firebase_url": "https://whoxa-2cbdc-default-rtdb.firebaseio.com",
+    "project_id": "whoxa-2cbdc",
+    "storage_bucket": "whoxa-2cbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404469567656:android:8ddede82d9d4b3e047f29d",
+        "android_client_info": {
+          "package_name": "com.whoxa.primocys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404469567656-7f8anvdlrqq33t7321vsrbmu782kvndt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whoxa.primocys",
+            "certificate_hash": "da8067968fa9d25322eb5361ed293fff5f9a768b"
+          }
+        },
+        {
+          "client_id": "404469567656-80s96jfh98rl5bcgm0sqkfngm3bto287.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whoxa.primocys",
+            "certificate_hash": "1c05a81864e37bc3d0e752defda34ca6c92011cb"
+          }
+        },
+        {
+          "client_id": "404469567656-h4sqjbnndo0b1jeke87hhlo6kl6srblp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whoxa.primocys",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "404469567656-iomfn0don3hg49tv4mnq8keer3i06vru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXa-UIV_ZF2ylDmgTrE3SHbmOFtjWmmtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404469567656-iomfn0don3hg49tv4mnq8keer3i06vru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404469567656-f6joj6ri5kslankn58fboh014c932i7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whoxa.primocys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
